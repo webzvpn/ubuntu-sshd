@@ -1,4 +1,4 @@
-# Ubuntu-sshd
+# Forked from rastasheep/ubuntu-sshd
 
-Dockerized SSH service, built on top of [official Ubuntu](https://registry.hub.docker.com/_/ubuntu/) images.
+[rastasheep](https://github.com/rastasheep) [ubuntu-sshd](https://github.com/rastasheep/ubuntu-sshd) server modification to auto-generate a password and write it to log. Created for temporary ssh access to docker servers.
 
