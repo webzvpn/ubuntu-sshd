@@ -1,5 +1,5 @@
 FROM       ubuntu:latest
-MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
+MAINTAINER Webz VPN
 
 RUN apt-get update
 
